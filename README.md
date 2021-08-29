@@ -1,5 +1,5 @@
 # JoinMasageMaster
-This PocketMine Plugin. 
+This PocketMine Plugin.
 
 | addons  | status |
 | ------------- | ------------- |
